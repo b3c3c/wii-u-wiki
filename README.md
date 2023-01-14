@@ -1,1 +1,3 @@
 # wii-u-wiki
+
+funny
