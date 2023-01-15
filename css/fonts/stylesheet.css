@@ -11,12 +11,12 @@ body {
 }
 }
 
-.Wii {
+.NintendoURegular {
   font-family: 'nintendo_uregular';
-  color: lightgrey;
+  color: grey;
 }
 
-.U {
+.BlueU {
   font-family: 'nintendo_uregular';
   color: lightblue;
 }
