@@ -7,9 +7,12 @@
 
 .NintendoURegular {
   font-family: 'nintendo_uregular';
-  color: gray;
 }
 
 .BlueU { 
   color: lightblue;
+}
+
+.WiiGrey {
+  color: grey;
 }
