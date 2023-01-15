@@ -1,8 +1,6 @@
 @font-face {
     font-family: 'nintendo_uregular';
-    src: url('nintendo_u_version_3_by_dledeviant_d9u8xn8-webfont.woff2') , url('nintendo_u_version_3_by_dledeviant_d9u8xn8-webfont.woff'); 
-    font-weight: normal;
-    font-style: normal;
+    src: url('nintendo-wii.woff2') , url('nintendo-wii.woff'); 
 }
 
 body {
@@ -13,6 +11,10 @@ body {
   color: rgb(3, 192, 255);
 }
 
-.WiiGrey {
-  color: grey;
+.WiiUGrey {
+  color: rgb(199, 199, 199);
+}
+
+.center-text {
+  text-align: center
 }
