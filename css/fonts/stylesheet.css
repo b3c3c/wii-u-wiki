@@ -18,3 +18,7 @@ body {
 .center-text {
   text-align: center
 }
+
+.dark-body {
+  background-color: black;
+}
