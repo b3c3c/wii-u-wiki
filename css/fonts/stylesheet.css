@@ -23,7 +23,7 @@ body {
 .title {
   text-align: center;
   display: block;
-  background-color: white;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 255, 255)), color-stop(100%, rgb(236, 236, 236)));
   border-radius: 0px 0px 50% 50%;
   padding-bottom: 100px;
   margin-top: 0px;
