@@ -5,8 +5,7 @@
 @font-face {
 body {
     font-family: 'nintendo_uregular';
-    src: url('./css/fonts/nintendo_u_version_3_by_dledeviant_d9u8xn8-webfont.woff2') format('woff2'),
-         url('./css/fonts/nintendo_u_version_3_by_dledeviant_d9u8xn8-webfont.woff') format('woff');
+    src: url('./fonts/nintendo_u_version_3_by_dledeviant_d9u8xn8.ttf')
     font-weight: normal;
     font-style: normal;
 }
