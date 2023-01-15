@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'nintendo_uregular';
-    src: url('nintendo-wii.woff2') , url('nintendo-wii.woff'); 
+    src: url('fonts/nintendo-wii.woff2') , url('fonts/nintendo-wii.woff'); 
 }
 
 body {
@@ -23,7 +23,7 @@ body {
 .title {
   text-align: center;
   display: block;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 255, 255)), color-stop(100%, rgb(236, 236, 236)));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 176)));
   border-radius: 0px 0px 50% 50%;
   padding-bottom: 100px;
   margin-top: 0px;
