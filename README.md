@@ -3,4 +3,4 @@ Welcome to the Wii U Wiki! This is a work-in-progress wiki for all things Wii U.
 
 This is not associated nor endorsed by Nintendo.
 
-Project by b3c3, Nova, and OtherAndroid. Some help by David Sosa too ig
+Project by b3c3, Nova, and OtherAndroid.
