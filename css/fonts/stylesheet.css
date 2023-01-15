@@ -11,11 +11,13 @@ body {
 }
 }
 
-.NintendoURegular {
-  font-family: 'nintendo_uregular';
-}
-
 .BlueU {
   font-family: 'nintendo_uregular';
   color: lightblue;
 }
+
+.NintendoURegular {
+  font-family: 'nintendo_uregular';
+  color: gray;
+}
+
