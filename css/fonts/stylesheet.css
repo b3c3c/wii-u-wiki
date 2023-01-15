@@ -11,3 +11,13 @@ body {
     font-style: normal;
 }
 }
+
+.Wii {
+  font-family: nintendo_uregular;
+  color: lightgrey;
+}
+
+.U {
+  font-family: nintendo_uregular;
+  color: lightblue;
+}
