@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'nintendo_uregular';
-    src: url('./fonts/nintendo_u_version_3_by_dledeviant_d9u8xn8.ttf') format('tff');
+    src: url('./css/fonts/nintendo_u_version_3_by_dledeviant_d9u8xn8.woff2') format('woff2'), src: url('./css/fonts/nintendo_u_version_3_by_dledeviant_d9u8xn8.woff') format('woff'); 
     font-weight: normal;
     font-style: normal;
 }
