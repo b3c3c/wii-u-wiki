@@ -68,5 +68,6 @@ body {
 }
 
 .pointer {
-    cursor: url("assets/img/Wii_U_Cursor_Pointer.png"), auto;
+      cursor: url("assets/img/wiiu/pointer.svg"), auto;
+      padding: 10px;
 }
