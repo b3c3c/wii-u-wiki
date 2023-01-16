@@ -20,7 +20,7 @@ body {
   color: rgb(199, 199, 199);
 }
 
-.WiiUGrey2 {
+.DevHeader {
   color: rgb(199, 199, 199);
   text-align: center;
   font-size: 2rem;
@@ -39,7 +39,6 @@ body {
   border-radius: 0px 0px 34% 34%;
   padding-bottom: 35px;
   margin-top: 0px;
-
 }
 .title-text {
   font-size: 5rem
