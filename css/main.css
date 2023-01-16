@@ -35,7 +35,7 @@ body {
 .title {
   text-align: center;
   display: block;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 176)));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 186)));
   border-radius: 0px 0px 34% 34%;
   padding-bottom: 35px;
   margin-top: 0px;
