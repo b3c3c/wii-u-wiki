@@ -5,6 +5,7 @@
 
 body {
   font-family: nintendo_uregular;
+  cursor: url("assets/img/wiiu/Smile_icon_32x32.png"), auto;
 }
 
 .BlueU { 
@@ -66,8 +67,4 @@ body {
          font-size: 25px;
          font-family: nintendo_uregular;
          padding: 10px;
-}
-
-.body {
-  cursor: url("assets/img/wiiu/Smile_icon_32x32.png"), auto;
 }
