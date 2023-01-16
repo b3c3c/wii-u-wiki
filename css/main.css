@@ -55,13 +55,18 @@ body {
 
 .WiiUButton {
      display: block;
-     text-align: center;
-     background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 194)));
-     border-radius: 20px;
-     margin-top: 10px;
-     margin-right: auto;
-     margin-left: auto;
-     font-size: 64px;
-     line-height: 80px;
-     font-family: nintendo_uregular;
+         text-align: center;
+         background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 194)));
+         border-radius: 5px;
+         margin-top: 10px;
+         margin-right: auto;
+         margin-left: auto;
+         height: 170px;
+         width: 120px;
+         font-size: 25px;
+         font-family: nintendo_uregular;
+}
+
+.pointer {
+    cursor: url("assets/img/Wii_U_Cursor_Pointer.png"), auto;
 }
