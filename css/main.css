@@ -8,7 +8,7 @@ body {
 }
 
 body2 {
-cursor: url("assets/img/wiiu/Smile_icon_32x32.png"), auto;
+  cursor: url("assets/img/wiiu/Smile_icon_32x32.png"), url("assets/img/wiiu/cursor.svg"), crosshair;
 }
 
 .BlueU { 
