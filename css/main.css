@@ -40,3 +40,16 @@ body {
 .dark-body {
   background-color: rgb(4, 11, 44);
 }
+
+.WiiUButton {
+  text-align: center;
+  display: block;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 176)));
+  border-radius: 40px;
+  padding-bottom: 10%;
+  margin-top: 0px;
+  font-size: 64px;
+  height: 100px;
+  line-height: 100px;
+  font-family: nintendo_uregular;
+}
