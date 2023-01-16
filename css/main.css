@@ -23,11 +23,13 @@ body {
 .WiiUGrey2 {
   color: rgb(199, 199, 199);
   text-align: center
+  font-size: 2rem
 }
 
 .WiiUGrey3 {
   color: rgb(199, 199, 199);
   text-align: center
+  font-size: 1.5rem
 }
 
 .title {
