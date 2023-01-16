@@ -22,14 +22,14 @@ body {
 
 .WiiUGrey2 {
   color: rgb(199, 199, 199);
-  text-align: center
-  font-size: 2rem
+  text-align: center;
+  font-size: 2rem;
 }
 
 .WiiUGrey3 {
   color: rgb(199, 199, 199);
-  text-align: center
-  font-size: 1.5rem
+  text-align: center;
+  font-size: 1.5rem;
 }
 
 .title {
@@ -54,14 +54,13 @@ body {
 }
 
 .WiiUButton {
-  text-align: center;
-  display: block;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 176)));
-  border-radius: 40px;
-  padding-bottom: 10%;
-  margin-top: 0px;
-  font-size: 64px;
-  height: 100px;
-  line-height: 100px;
-  font-family: nintendo_uregular;
+     text-align: center;
+     display: block;
+     background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 176)));
+     border-radius: 20px;
+     margin-top: 5px;
+     margin-right: 10px;
+     font-size: 64px;
+     line-height: 80px;
+     font-family: nintendo_uregular;
 }
