@@ -68,6 +68,6 @@ body {
 }
 
 .pointer {
-      cursor: url("assets/img/wiiu/pointer.svg");
+      cursor: url("assets/img/wiiu/pointer.svg"), pointer;
       padding: 10px;
 }
