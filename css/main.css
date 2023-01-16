@@ -54,12 +54,13 @@ body {
 }
 
 .WiiUButton {
-     text-align: center;
      display: block;
+     text-align: center;
      background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 176)));
      border-radius: 20px;
      margin-top: 5px;
-     margin-right: 10px;
+     margin-right: auto;
+     margin-left: auto;
      font-size: 64px;
      line-height: 80px;
      font-family: nintendo_uregular;
