@@ -5,7 +5,10 @@
 
 body {
   font-family: nintendo_uregular;
-   cursor: url("assets/img/wiiu/pointer.svg"), auto;
+}
+
+body2 {
+cursor: url("assets/img/wiiu/pointer.svg"), auto;
 }
 
 .BlueU { 
