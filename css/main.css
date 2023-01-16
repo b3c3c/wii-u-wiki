@@ -65,9 +65,11 @@ body {
          width: 120px;
          font-size: 25px;
          font-family: nintendo_uregular;
+         cursor: url("assets/img/wiiu/pointer.svg"), pointer;
+         padding: 10px;
 }
 
-.pointer {
+.point {
       cursor: url("assets/img/wiiu/pointer.svg"), pointer;
       padding: 10px;
 }
