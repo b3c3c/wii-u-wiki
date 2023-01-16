@@ -7,10 +7,6 @@ body {
   font-family: nintendo_uregular;
 }
 
-body2 {
-  cursor: url("Smile_icon_32x32.png"), auto;
-}
-
 .BlueU { 
   color: rgb(3, 192, 255);
 }
@@ -36,7 +32,7 @@ body2 {
   font-size: 1.5rem;
 }
 
-.title {
+.topDome {
   text-align: center;
   display: block;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 186)));
