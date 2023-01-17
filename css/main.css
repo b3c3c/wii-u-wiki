@@ -70,3 +70,7 @@ body {
 .DomeButton {
     font-family: nintendo_uregular;
 }
+
+body {
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'),auto;
+}
