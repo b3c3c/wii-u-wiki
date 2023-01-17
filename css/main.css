@@ -3,18 +3,44 @@
     src: url('fonts/nintendo-wii.woff2') , url('fonts/nintendo-wii.woff'); 
 }
 
+@font-face {
+    font-family: 'lato';
+    src: url('fonts/lato.woff2'); 
+}
+
 body {
   font-family: nintendo_uregular;
-  background: rgb(32,42,68)
+  background: rgb(32,42,68);
+  margin: 0px;
+  color: rgb(199,199,199);
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'),auto;
 }
 
 .BlueU { 
   color: rgb(3, 192, 255);
 }
 
-.AlphaText {
+.alpha-text {
   color: red;
-  font-size: 2rem; /*Remove when the site is finished lol*/
+  text-align: center;
+  font-size: 1.3rem; /*Remove when the site is finished lol*/
+}
+
+main.content {
+	margin: 1rem;
+	/*[TODO] Make the text not take the whole page, to help readability on ultrawide monitors*/
+	max-width: 100%;
+	font-family: lato, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: nintendo_uregular, lato, sans-serif;
+	font-weight: 100;
+	margin-bottom: 0.5rem;
+}
+
+p {
+	margin: 0.5rem;
 }
 
 .WiiUGrey {
@@ -39,8 +65,10 @@ body {
   background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 186)));
   border-radius: 0px 0px 5% 5%;
   padding-bottom: 35px;
-  margin-top: 0px;
+  padding-top: 10px;
+  color: black;
 }
+
 .title-text {
   font-size: 5rem
 }
@@ -69,8 +97,4 @@ body {
 
 .DomeButton {
     font-family: nintendo_uregular;
-}
-
-body {
-  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'),auto;
 }
