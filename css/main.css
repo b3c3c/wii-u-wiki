@@ -11,7 +11,7 @@ body {
   color: rgb(3, 192, 255);
 }
 
-.red-text {
+.AlphaText {
   color: red;
   font-size: 2rem; /*Remove when the site is finished lol*/
 }
@@ -42,10 +42,6 @@ body {
 }
 .title-text {
   font-size: 5rem
-}
-
-.dark-body {
-  background-color: rgb(4, 11, 44);
 }
 
 .WiiUButton {
