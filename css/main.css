@@ -37,7 +37,7 @@ body {
   text-align: center;
   display: block;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 186)));
-  border-radius: 0px 0px 34% 34%;
+  border-radius: 0px 0px 5% 5%;
   padding-bottom: 35px;
   margin-top: 0px;
 }
@@ -45,7 +45,7 @@ body {
   font-size: 5rem
 }
 
-.WiiUButton {
+.CataButton {
      display: block;
          text-align: center;
          background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 194)));
@@ -64,4 +64,9 @@ body {
     display:block;
     border: none;
     background: url("assets/Icons/discord.png");
+    text-align: bottom
+}
+
+.DomeButton {
+    font-family: nintendo_uregular;
 }
