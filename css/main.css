@@ -62,5 +62,6 @@ body {
 
 .DiscordButton {
     display:block;
+    border: none
     background: url("assets/Icons/discord.png");
 }
