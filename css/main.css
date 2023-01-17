@@ -10,27 +10,32 @@ body {
 
 .BlueU { 
   color: rgb(3, 192, 255);
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
 
 .AlphaText {
   color: red;
   font-size: 2rem; /*Remove when the site is finished lol*/
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
 
 .WiiUGrey {
   color: rgb(199, 199, 199);
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
 
 .DevHeader {
   color: rgb(199, 199, 199);
   text-align: center;
   font-size: 2rem;
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
 
 .WiiUGrey3 {
   color: rgb(199, 199, 199);
   text-align: center;
   font-size: 1.5rem;
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
 
 .topDome {
@@ -40,6 +45,7 @@ body {
   border-radius: 0px 0px 5% 5%;
   padding-bottom: 35px;
   margin-top: 0px;
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
 .title-text {
   font-size: 5rem
@@ -58,6 +64,7 @@ body {
          font-size: 25px;
          font-family: nintendo_uregular;
          padding: 10px;
+         cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
 
 .DiscordButton {
@@ -72,5 +79,5 @@ body {
 }
 
 body {
-  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'),auto;
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'), auto;
 }
