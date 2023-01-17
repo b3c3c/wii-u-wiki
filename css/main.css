@@ -59,3 +59,7 @@ body {
          font-family: nintendo_uregular;
          padding: 10px;
 }
+
+.DiscordButton {
+    background: url("assets/Icons/discord.png")
+}
