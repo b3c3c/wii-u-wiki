@@ -61,7 +61,8 @@ body {
 }
 
 .DiscordButton {
-    background: url("assets/img/wiiu/discord.png");
+    display:block
+    background: url("assets/Icons/discord.png");
     height: 91px;
     width: 416px;
 }
