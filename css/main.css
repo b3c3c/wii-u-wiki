@@ -6,6 +6,8 @@
 body {
   font-family: nintendo_uregular;
   background: rgb(32,42,68)
+  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'),auto;
+  
 }
 
 .BlueU { 
