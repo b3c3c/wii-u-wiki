@@ -67,5 +67,8 @@ body {
  }
 
  body {
-  cursor: url('https://wiiu.wiki/assets/img/lastStand.cur'),auto;
+  cursor: url('https://wiiu.wiki/assets/img/cursors/lastStand.cur'),default;
+  cursor: url('https://wiiu.wiki/assets/img/cursors/lastStandPointer.cur'),pointer;
+  cursor: url('https://wiiu.wiki/assets/img/cursors/lastStandGrab.cur'),grab;
+  cursor: url('https://wiiu.wiki/assets/img/cursors/lastStandGrabbing.cur'),grabbing;
 }
