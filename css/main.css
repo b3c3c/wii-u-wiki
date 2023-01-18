@@ -46,18 +46,13 @@ body {
  }
 
  .CataButton {
-   display: block;
-     text-align: center;
-     background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 194)));
-     border-radius: 5px;
-     margin-top: 10px;
-     margin-right: auto;
-     margin-left: auto;
-     height: 170px;
-     width: 120px;
-     font-size: 25px;
-     font-family: nintendo_uregular;
-     padding: 10px;
+   display: inline-grid;
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgb(255, 255, 255)), color-stop(100%, rgb(176 176 194)));
+        border-radius: 5px;
+        height: 170px;
+        width: 120px;
+        font-size: 25px;
+        font-family: nintendo_uregular;
  }
 
  .DiscordButton {
